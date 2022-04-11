@@ -19,7 +19,7 @@ Para ello, tienes que proporcionar los siguientes datos personales de forma obli
 3. Informacion que usamos
 * Datos de geolocalización
 
-	Si habilitas los servicios de localización en la aplicación, podemos recoger la localizacion precisa baasda en tu latitud y longitud con el fin de giarte en el seguimiento de la ruta.
+	Si habilitas los servicios de localización en la aplicación, podemos recoger la localizacion precisa basada en tu latitud y longitud con el fin de giarte en el seguimiento de la ruta.
 
 
 4. Contenido de terceros
